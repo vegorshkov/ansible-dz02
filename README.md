@@ -66,5 +66,5 @@ ansible-playbook -i inventory/prod.yml site.yml --diff
 ![alt text](image-24.png)
 ![alt text](image-25.png)
 
-
+https://github.com/vegorshkov/ansible-dz02/tree/08-ansible-02-playbook 
 
